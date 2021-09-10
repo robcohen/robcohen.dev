@@ -26,7 +26,7 @@ jobs:
     - name: npm ci and npm run build
       run: |
         ls -la
-        npm build
+        npm run-script build
         ls -la
 
     - uses: jakejarvis/s3-sync-action@master
