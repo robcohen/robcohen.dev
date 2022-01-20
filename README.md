@@ -1,5 +1,9 @@
 # RobcohenDev
 
+Host: BunnyCDN
+CDN: BunnyCDN
+Registrar: Epik
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
