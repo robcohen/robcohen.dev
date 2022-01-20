@@ -25,6 +25,7 @@ jobs:
         port: 21
         local-dir: ./dist/robcohen-dev/
         server-dir: //
+        dangerous-clean-slate: true;
         exclude: |
           **/.git*
           **/.git*/**
