@@ -23,7 +23,7 @@ jobs:
       with:
         server: storage.bunnycdn.com
         port: 21
-        local-dir: ./
+        local-dir: ./dist/robcohen-dev/
         server-dir: //
         exclude: |
           **/.git*
